@@ -1,1 +1,18 @@
-
+Small Multiples
+Horizon Graps - Data density
+Q-Q plots (No termino de entender)
+Scatter Plot Matrix - Brushing and Linking (vincula todos los graficos) muy bueno
+Parallel coordinates (parecen complicadas hay que saber manejarlas)
+Flow Maps
+Coropleth Map - Conocia el grafico no el termino
+Graduated Symbol Map - Se entiende mejor coo pie chart
+Dorling Cartogram
+Node Link Diagram - Dendogram - Intended trees (menos visual pero ineractivos)
+Adjacency Diagrams - icicle layout - sunburst layout
+Enclosure Diagrams
+    Squarified Treemaps - Padding - Rectangle Subdivision
+    Circle-Packing
+Network - Force-Directed Layout
+        - Arc Diagram - Seriation
+        - Matrix Views - Seriation - Se ve mejor con mayor cantidad de datos
+        
